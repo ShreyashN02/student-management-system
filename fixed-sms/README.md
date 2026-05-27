@@ -112,14 +112,7 @@ http://localhost:9999/students
 
 ---
 
-## 📸 Screenshots
 
-### Student List
-![Student List](screenshots/students-list.png)
-
-### Add Student
-![Add Student](screenshots/add-student.png)
----
 
 ## 🗄️ Database Table
 
